@@ -87,6 +87,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+* [fishin](https://github.com/sjwasko/fishin) -  Solunar, tide, and weather forecast for planning fishing days.
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 * [funky](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
